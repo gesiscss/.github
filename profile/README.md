@@ -26,7 +26,7 @@ This account contains open source material created by our members.
   
 [R package Whatsr](https://github.com/gesiscss/WhatsR)  
    
-### Social Media Api
+### Social Media APIs
   
 [Social Media Monitor Wrapper](https://github.com/gesiscss/smm_wrapper)  
 [Social Media Monitor Demo](https://github.com/gesiscss/smm_demo)  
@@ -37,7 +37,7 @@ This account contains open source material created by our members.
    
 ### Sensors
   
-[Basic analysis of sociopatterns data sets](https://github.com/gesiscss/face2face)  
+[Basic analysis of the sociopatterns data sets](https://github.com/gesiscss/face2face)  
    
 ### Wikipedia
 
