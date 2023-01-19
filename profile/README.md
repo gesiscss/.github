@@ -10,7 +10,6 @@ This account contains open source material created by our members.
 
 ## Setup
 
-[Getting Started with GESIS Notebooks](https://github.com/gesiscss/notebooks_getting_started)  
 [CSS Methods in Python](https://github.com/gesiscss/css_methods_python)    
    
 ## Data Gathering
@@ -110,6 +109,7 @@ This account contains open source material created by our members.
 ## Other
 
 [Open Research Computing](https://github.com/gesiscss/orc)
+[Getting Started with GESIS Notebooks](https://github.com/gesiscss/notebooks_getting_started)  
 
 ---
 
