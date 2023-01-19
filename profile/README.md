@@ -11,8 +11,7 @@ This account contains open source material created by our members.
 ## Setup
 
 [Getting Started with GESIS Notebooks](https://github.com/gesiscss/notebooks_getting_started)  
-[CSS Methods in Python](https://github.com/gesiscss/css_methods_python)  
-[Rstan-Binder](https://github.com/gesiscss/RStan-Binder)  
+[CSS Methods in Python](https://github.com/gesiscss/css_methods_python)    
    
 ## Data Gathering
   
@@ -115,4 +114,4 @@ This account contains open source material created by our members.
 ---
 
 More open source resources can be found in the github repositories of our members:  
-[David Schoch](https://github.com/schochastics), [Chung-hong Chan](https://github.com/chainsawriot)
+[Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [David Schoch](https://github.com/schochastics)
