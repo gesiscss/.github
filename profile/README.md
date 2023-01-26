@@ -114,4 +114,4 @@ This account contains open source material created by our members.
 ---
 
 More open source resources can be found in the github repositories of our members:  
-[Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [David Schoch](https://github.com/schochastics)
+[Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [Julian Kohne](https://github.com/JuKo007), [David Schoch](https://github.com/schochastics)
