@@ -33,8 +33,8 @@ This account contains open source material created by our members.
    
 ### Search Engine Data
   
-[Scrape search engne results](https://github.com/gesiscss/WebBot)  
-[Tutorials for WebBot](https://github.com/gesiscss/WebBot-tutorials)  
+[WebBot: Scrape search engne results](https://github.com/gesiscss/WebBot)  
+[Parsing WebBot results with Python](https://github.com/gesiscss/WebBot-tutorials)  
    
 ### Sensors
   
