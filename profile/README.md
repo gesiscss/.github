@@ -5,6 +5,7 @@ We are the CSS department at [GESiS](https://gesis.org)  and our mission is to s
 
 This account contains open source material created by our members. 
 
+We also maintain a [awesome list for computational social science](https://github.com/gesiscss/awesome-computational-social-science)
 
 # Overview
 
