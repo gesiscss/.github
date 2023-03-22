@@ -4,6 +4,8 @@
 We are the [CSS department](https://www.gesis.org/en/institute/departments/computational-social-science) at [GESIS](https://gesis.org)  and our mission is to support scientists that aim to work with digital behavioral data to learn about social and socio-technical phenomena. We support scientists in the different phases of their research ranging from the planning and design of a study to the data collection, the data analysis and the documentation. We follow open science principles and help other CSS researchers to comply with these principles. 
 
 This account contains open source material created by our members. 
+More open source resources can also be found in the github repositories of some of our members:  
+[Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [Julian Kohne](https://github.com/JuKo007), [David Schoch](https://github.com/schochastics)
 
 We also maintain an [awesome list for computational social science](https://github.com/gesiscss/awesome-computational-social-science)
 
@@ -113,7 +115,3 @@ We also maintain an [awesome list for computational social science](https://gith
 [Open Research Computing](https://github.com/gesiscss/orc)
 [Getting Started with GESIS Notebooks](https://github.com/gesiscss/notebooks_getting_started)  
 
----
-
-More open source resources can be found in the github repositories of our members:  
-[Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [Julian Kohne](https://github.com/JuKo007), [David Schoch](https://github.com/schochastics)
