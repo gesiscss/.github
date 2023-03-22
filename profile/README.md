@@ -1,7 +1,7 @@
 
 # About us
 
-We are the [CSS department](https://www.gesis.org/en/institute/departments/computational-social-science) at [GESiS](https://gesis.org)  and our mission is to support scientists that aim to work with digital behavioral data to learn about social and socio-technical phenomena. We support scientists in the different phases of their research ranging from the planning and design of a study to the data collection, the data analysis and the documentation. We follow open science principles and help other CSS researchers to comply with these principles. 
+We are the [CSS department](https://www.gesis.org/en/institute/departments/computational-social-science) at [GESIS](https://gesis.org)  and our mission is to support scientists that aim to work with digital behavioral data to learn about social and socio-technical phenomena. We support scientists in the different phases of their research ranging from the planning and design of a study to the data collection, the data analysis and the documentation. We follow open science principles and help other CSS researchers to comply with these principles. 
 
 This account contains open source material created by our members. 
 
