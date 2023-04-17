@@ -37,7 +37,7 @@ We also maintain an [awesome list for computational social science](https://gith
 ### Search Engine Data
   
 [WebBot: Scrape search engine results](https://github.com/gesiscss/WebBot)  
-[Parsing WebBot results with Python](https://github.com/gesiscss/WebBot-tutorials) ([R version](https://github.com/schochastics/webbotparseR))  
+[Parsing WebBot results with Python](https://github.com/gesiscss/WebBotParser) ([R version](https://github.com/schochastics/webbotparseR))  
    
 ### Sensors
   
