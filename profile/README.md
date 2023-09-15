@@ -3,9 +3,7 @@
 
 We are the [CSS department](https://www.gesis.org/en/institute/departments/computational-social-science) at [GESIS](https://gesis.org)  and our mission is to support scientists that aim to work with digital behavioral data to learn about social and socio-technical phenomena. We support scientists in the different phases of their research ranging from the planning and design of a study to the data collection, the data analysis and the documentation. We follow open science principles and help other CSS researchers to comply with these principles. 
 
-This account contains open source material created by our members. The Team "Transparent Social Analytics" also has a [GitHub](https://github.com/gesistsa) account where they share open source material.  
-
-More open resources can also be found in the github repositories of some of our members:  
+This account contains open source material created by our members. The Team "Transparent Social Analytics" also has a [GitHub](https://github.com/gesistsa) account where they share open source material. More open resources can also be found in the GitHub repositories of some of our members:  
 [Arnim Bleier](https://github.com/arnim), [Chung-hong Chan](https://github.com/chainsawriot), [Julian Kohne](https://github.com/JuKo007), [David Schoch](https://github.com/schochastics)
 
 We also maintain an [awesome list for computational social science](https://github.com/gesiscss/awesome-computational-social-science)
