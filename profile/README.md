@@ -103,7 +103,7 @@ We also maintain an [awesome list for computational social science](https://gith
    
 ## Workshop Material
 
-[Introduction to Quarto 2023](https://gesiscss.github.io/quarto-workshop/)
+[Introduction to Quarto 2023](https://gesiscss.github.io/quarto-workshop/)  
 [Material for Computational Sociology](https://github.com/gesiscss/compsoc)  
 [Methods Seminar 2019](https://github.com/gesiscss/methods_seminar_2019)  
 [Gesis Dataday 20](https://github.com/gesiscss/gesis_dataday_20)  
