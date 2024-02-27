@@ -23,6 +23,7 @@ We also maintain an [awesome list for computational social science](https://gith
 ### Youtube
   
 [Scrape Youtube comments](https://github.com/gesiscss/YouTubeComments)  
+[Processing YouTube Comments](https://github.com/gesiscss/tubecleanR)
 
 ### Whatsapp
   
