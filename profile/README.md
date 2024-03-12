@@ -26,7 +26,8 @@ We also maintain an [awesome list for computational social science](https://gith
 
 ### Whatsapp
   
-[R package Whatsr](https://github.com/gesiscss/WhatsR)  
+[R package WhatsR](https://github.com/gesiscss/WhatsR)  
+[ChatDashboard - R Shiny App for WhatsApp Data Donations](https://github.com/gesiscss/ChatDashboard)
    
 ### Social Media APIs
   
