@@ -112,6 +112,6 @@ We also maintain an [awesome list for computational social science](https://gith
 
 ## Other
 
-[Open Research Computing](https://github.com/gesiscss/orc)
+[Open Research Computing](https://github.com/gesiscss/orc)  
 [Getting Started with GESIS Notebooks](https://github.com/gesiscss/notebooks_getting_started)  
 
